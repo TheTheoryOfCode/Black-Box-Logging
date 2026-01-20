@@ -2,7 +2,7 @@
 
 ### Black Box Logging — Faster, Efficient and Actually Useful
 
-![](./pics/BBL.)
+![](./pics/BBL.png)
 
 The Architectural Framework of Black Box Logging 
 
