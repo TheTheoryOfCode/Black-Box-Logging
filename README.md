@@ -1,6 +1,6 @@
 ***
 
-### Black Box Logging — Faster, Efficient and Actually Useful
+# Black Box Logging — Faster, Efficient and Actually Useful
 
 ![](./pics/BBL.png)
 
